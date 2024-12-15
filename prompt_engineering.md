@@ -61,7 +61,7 @@ Diploma in Hospitality Management: VOCATIONAL
 
 As mentioned earlier, GPT-4o is a multimodal model, which means it can process both text and images. Let's see how it works with a combination of an image and a textual prompt.
 
-Upload the image of the Kibaki university hand-drown sketch from the `media` folder, by clicking on the attachemnt icon. You can find the image [here](./media/contoso_layout_sketch.jpg).
+Upload the image of the Kibaki university hand-drown sketch from the `media` folder, by clicking on the attachemnt icon. You can find the image [here]().
 
 ![Upload image button]()
 
