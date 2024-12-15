@@ -1,3 +1,5 @@
+# Prompt Engineering Techniques in the Microsoft Copilot
+
 Here’s how we can use Microsoft Copilot to create a course outline and materials for a lesson on ferns, combining **text** and **images** with prompts designed for both
 
 ## Fern Lesson Course Outline  
@@ -44,21 +46,27 @@ Output the content in Markdown format, organized into sections with headings.
    Create an image of a lush green fern plant with labeled parts: fronds, rhizome, and sori.  
    ```  
 
+![](./media/a%20lush%20green%20fern%20plant%20with%20labeled%20parts_%20fronds,%20rhizome,%20and%20sori.png)
+
 2. **For Life Cycle**:  
    ```
    Generate a detailed diagram of the life cycle of a fern, showing both the gametophyte and sporophyte stages, including spore dispersal and fertilization.  
    ```  
+
+![](./media/detailed%20diagram%20of%20the%20life%20cycle%20of%20a%20fern,%20showing%20both%20the%20gametophyte%20and%20sporophyte%20stages,%20including%20spore%20dispersal%20and%20fertilization.png)
 
 3. **For Ecological Role**:  
    ```
    Create an image showing a tropical rainforest with various fern species thriving under the canopy, illustrating their ecological niche.  
    ```  
 
+![](./media/a%20tropical%20rainforest%20with%20various%20fern%20species%20thriving%20under%20the%20canopy,%20illustrating%20their%20ecological%20niche.png)
+
 4. **For Practical Uses**:  
    ```
    Generate an image of a living room decorated with potted Boston Ferns, highlighting their use as air purifiers.  
    ```  
-
+![](./media/a%20living%20room%20decorated%20with%20potted%20Boston%20Ferns,%20highlighting%20their%20use%20as%20air%20purifiers.png)
 ---
 
 ### **Combining Text and Images**  
