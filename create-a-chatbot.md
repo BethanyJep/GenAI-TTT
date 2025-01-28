@@ -46,7 +46,7 @@ Output the content in Markdown format, organized into sections with headings.
    ```  
 ![](/Design%20a%20vibrant%20banner%20for%20the%20course%20titled%20AI%20for%20Fun_%20Building%20a%20Simple%20Chatbot.%20The%20banner%20should%20feature%20the%20title%20prominently%20in%20bold,%20playful%20typography.%20Surround%20the%20text%20with%20lively%20chat%20bubbles%20co.png)
 
-2. **Chat bot converstaion**:  
+2. **Chat bot conversation**:  
    ```
    A mockup of a conversation between a user and the chatbot, demonstrating how the chatbot handles different types of inputs and responses. 
    ```  
