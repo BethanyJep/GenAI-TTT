@@ -8,7 +8,7 @@ Generative AI Train the Trainer with Microsoft LEAP
 - Intro to generative AI
 - Creating effective prompts
 - Create images using GenAI
-- Appy GenAI in creating a course
+- Apply GenAI in creating a course
 - GenAI as a personal tutor
 - Q&A
 
