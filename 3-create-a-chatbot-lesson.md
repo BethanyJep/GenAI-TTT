@@ -1,6 +1,6 @@
 # Prompt Engineering Techniques in the Microsoft Copilot
 
-Here’s how we can use Microsoft Copilot to create a course outline and materials for a lesson on ferns, combining **text** and **images** with prompts designed for both
+Here’s how we can use Microsoft Copilot to create a course outline and materials for a lesson on chatbots, combining **text** and **images** with prompts designed for both
 
 ## Create you own chatbot lesson
 
@@ -8,8 +8,8 @@ Here’s how we can use Microsoft Copilot to create a course outline and materia
 
 ### **Objectives**:  
 1. Understand the basic concepts of chatbots and natural language processing.
-1. Learn how to set up a Python environment for developing a chatbot.
-1. Build a simple rule-based chatbot using Python libraries.
+1. Learn how to develop a chatbot step-by-step.
+1. BExamples and use cases of chatbots in daily life scenario.                                                                
 
 ### **Course Materials**:  
 1. **Lesson Text Content**: Generated using Microsoft Copilot prompts.  
@@ -44,21 +44,21 @@ Output the content in Markdown format, organized into sections with headings.
    ```
    create a Design a vibrant banner for the course titled 'AI for Fun: Building a Simple Chatbot'. The banner should feature the title prominently in bold, playful typography. Surround the text with lively chat bubbles containing snippets of binary code or friendly AI icons. Incorporate a sleek, minimalist chatbot character—perhaps with a smile—to add a personal touch. Use a modern color palette with bright blues, greens, and accents of white to evoke a sense of innovation and excitement. Include subtle circuit patterns or abstract tech elements in the background to enhance the AI theme without overwhelming the design. 
    ```  
-![](/Design%20a%20vibrant%20banner%20for%20the%20course%20titled%20AI%20for%20Fun_%20Building%20a%20Simple%20Chatbot.%20The%20banner%20should%20feature%20the%20title%20prominently%20in%20bold,%20playful%20typography.%20Surround%20the%20text%20with%20lively%20chat%20bubbles%20co.png)
+![](/media/Design%20a%20vibrant%20banner%20for%20the%20course%20titled%20AI%20for%20Fun_%20Building%20a%20Simple%20Chatbot.%20The%20banner%20should%20feature%20the%20title%20prominently%20in%20bold,%20playful%20typography.%20Surround%20the%20text%20with%20lively%20chat%20bubbles%20co.png)
 
 2. **Chat bot conversation**:  
    ```
    A mockup of a conversation between a user and the chatbot, demonstrating how the chatbot handles different types of inputs and responses. 
    ```  
 
-![](/A%20mockup%20of%20a%20conversation%20between%20a%20user%20and%20the%20chatbot,%20demonstrating%20how%20the%20chatbot%20handles%20different%20types%20of%20inputs%20and%20responses..png)
+![](/media/A%20mockup%20of%20a%20conversation%20between%20a%20user%20and%20the%20chatbot,%20demonstrating%20how%20the%20chatbot%20handles%20different%20types%20of%20inputs%20and%20responses..png)
 
 3. **code snippets**:  
    ```
    detailed screenshots of the coding environment, clearly showcasing key sections of code that guide students through the hands-on exercises. Highlight crucial parts of the code using bright, contrasting colors like yellow or red to ensure visibility. Each screenshot should focus on a specific step of the exercise, including explanatory captions that describe what the code is doing and why it's important. Use a clean, professional layout with ample white space to keep the visual elements organized and easy to follow. Incorporate subtle branding elements like the course logo or consistent fonts to maintain a cohesive look throughout the screenshots. 
    ```  
 
-![](/detailed%20screenshots%20of%20the%20coding%20environment%20with%20highlighted%20sections%20of%20code%20and%20explanatory%20captions.png)
+![](/media/detailed%20screenshots%20of%20the%20coding%20environment%20with%20highlighted%20sections%20of%20code%20and%20explanatory%20captions.png)
 
 ### **Combining Text and Images**  
 
@@ -76,6 +76,8 @@ After generating text and images:
 ---
 
 ### **Example Output**  
+
+> You can find the [full lesson generated with imamges added here.](/course-example.md)
 
 ```markdown
 Sure thing! Here's a detailed, engaging lesson on creating an AI Chatbot for a one-hour training module, organized in Markdown format:
@@ -129,23 +131,22 @@ Welcome to "AI for Fun: Building a Simple Chatbot"! In this lesson, we'll dive i
 - **Data Collection**: Gather conversational data.
 - **Model Training**: Use NLP libraries to train the chatbot.
 
-```python
-# Example: Simple chatbot using NLTK
-import nltk
-from nltk.chat.util import Chat, reflections
+   ```python
+   # Example: Simple chatbot using NLTK
+   import nltk
+   from nltk.chat.util import Chat, reflections
 
-# Define pairs of patterns and responses
-pairs = [
-    ["hello", ["Hi there!"]],
-    ["how are you", ["I'm a chatbot, I'm always good!"]]
-]
+   # Define pairs of patterns and responses
+   pairs = [
+      ["hello", ["Hi there!"]],
+      ["how are you", ["I'm a chatbot, I'm always good!"]]
+   ]
 
-# Create a Chat object
-chatbot = Chat(pairs, reflections)
+   # Create a Chat object
+   chatbot = Chat(pairs, reflections)
 
-# Start the conversation
-chatbot.converse()
-```
+   # Start the conversation
+   chatbot.converse()
 
 ### Step 5: Test and Deploy
 
