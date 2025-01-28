@@ -43,3 +43,13 @@ Here’s how to build a high-quality prompt for a historical classroom:
 
 ## Why Specific Prompts Matter
 Detailed prompts allow AI tools to create images that inspire innovative learning spaces and highlight advancements in education. These visuals can support curriculum development, grant proposals, or education technology presentations.
+
+## Ideas to add to your prompt
+
+| Art style | Prompt words |
+| --- | --- |
+| Art medium style | "stencil art," "crayon," "chalk," "etching," "oil paintings," "ballpoint pen," "colored pencil," "Chinese watercolor," "pastels," "woodcut," "charcoal," "screen print," "photo collage," "storybook illustration," "newspaper cartoon," "vintage illustration from 1920." |
+| Art digital style | "digital art," "vector graphics," "minimalist," "geometric," "isometric," "2.5D," "matte clay," "digital painting," "screenshot from [a favorite game or animation]," "diagram," "instruction manual."  |
+| Retro style | "surrealism," "Dadaism," "metaphysical painting," "orphism," "cubism," "suprematism," "De Stijl," "futurism," "expressionism," "realism," "Bauhaus," "color field painting," "impressionism," "baroque," "rococo," "mannerism," "ancient Egyptian papyrus," "ancient Roman mosaic." |
+| Realistic style | "trail cam," "CCTV," "VHS," "Polaroid," "infrared photography," "daguerreotype," "cyanotype," "photo from [a favorite magazine or website]," "film still from [a favorite movie or TV show]," "color splash," "extreme close-up," wide-angle lens," "telephoto lens," "light leaks," "Lomography," "autochrome," "camera phone," "camera obscura," "warm lighting," "long exposure," "fast shutter speed," "backlighting," "low-key lighting," "golden hour," "blue hour," "macro lens," "motion blur," "shallow depth-of-field," "action photography," "candid portrait." |
+| 3D artworks | "felt," "tapestry," "knitting," "embroidery," "papercraft," "origami," "pop-up books," "modeling clay," "porcelain," "ceramics," "terracotta," "metalwork," "jewelry," "crystal," "fiberglass"…even "butter." |
